@@ -9,8 +9,8 @@ const frameMetadata = getFrameMetadata({
     },
     {
       action: 'link',
-      label: 'Link to Google',
-      target: 'https://www.google.com',
+      label: 'Numa Numa',
+      target: 'https://www.youtube.com/watch?v=Cqd1Gvq-RBY',
     },
     {
       label: 'Redirect to pictures',
